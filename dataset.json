@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Regional restaurant data for the Columbia (Metro), South Carolina metropolitan area, spanning Columbia. Covers the full metropolitan dining ecosystem of a mid-size metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Columbia (Metro), South Carolina, US",
+  "export_job_id": "ede1e805-33e3-48e9-8b53-caf809a936b6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 192219,
+  "location_name": "Columbia, SC",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-columbia-metro-south-carolina-us-sample-192219",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/192219/beamstation_192219_restaurants-us-columbiasc_SAMPLE_DIST.csv",
+  "sample_pct": 1.67,
+  "sample_records": 25,
+  "sample_sha256": "c2ee8f1e3aa53b0126a3d4e0c115c48a6bde421e115e2569e933aa3d7ddfd807",
+  "sample_size_bytes": 121504,
+  "total_records": 1495,
+  "updated_at": "2026-03-31T13:33:05.844382+00:00"
+}
