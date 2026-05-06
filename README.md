@@ -1,6 +1,6 @@
 # All Restaurants in Columbia (Metro), South Carolina, US
 
-> Free BeamStation sample export with 167 rows and masked direct-contact fields.
+> Free BeamStation sample export with 198 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `192219` |
 | Location | Columbia, SC |
 | Category | Restaurants |
-| Full dataset size | 1,678 records |
-| Free sample size | 167 records (9.95%) |
-| Last export | 2026-04-28T15:53:48.636420+00:00 |
+| Full dataset size | 1,985 records |
+| Free sample size | 198 records (9.97%) |
+| Last export | 2026-05-06T11:30:44.473031+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-columbia-metro-south-carolina-us-sample-192219/releases/download/sample-latest/beamstation_192219_restaurants-us-columbiasc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
