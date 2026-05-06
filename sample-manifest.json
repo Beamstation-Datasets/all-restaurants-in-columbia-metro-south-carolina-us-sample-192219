@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5081a04e-a462-4feb-959a-ec4227815313",
+  "export_job_id": "a6f70140-2b11-47f4-9aeb-de52e69ab2ed",
   "id_short": 192219,
-  "published_at": "2026-04-28T19:19:35Z",
+  "published_at": "2026-05-06T19:07:01Z",
   "repo_name": "all-restaurants-in-columbia-metro-south-carolina-us-sample-192219",
   "sample_asset_name": "beamstation_192219_restaurants-us-columbiasc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/192219/beamstation_192219_restaurants-us-columbiasc_SAMPLE_DIST.csv",
-  "sample_records": 167,
-  "sample_sha256": "5e788ec6f6e3953394de734d280a9618303b0f8c9b447969f4c16d2130cf59c8",
-  "sample_size_bytes": 591608,
-  "total_records": 1678
+  "sample_records": 198,
+  "sample_sha256": "2b1444e5e95af7c43b6916693fe0ba08aa201321fb2e05fd19f0a4d4b1ae28cb",
+  "sample_size_bytes": 666941,
+  "total_records": 1985
 }
